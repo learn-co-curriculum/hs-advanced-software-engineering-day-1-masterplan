@@ -26,3 +26,5 @@
 
 [Lesson Plan](https://docs.google.com/a/flatironschool.com/document/d/1wQvqO9jq9AQBQMhZVGI1vOGSj0vIRqZbcftVxLBoRiI/edit)
 
+
+<a href='https://learn.co/lessons/hs-advanced-software-engineering-day-1-masterplan' data-visibility='hidden'>View this lesson on Learn.co</a>
