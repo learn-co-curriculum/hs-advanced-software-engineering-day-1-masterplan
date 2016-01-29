@@ -27,4 +27,4 @@
 [Lesson Plan](https://docs.google.com/a/flatironschool.com/document/d/1wQvqO9jq9AQBQMhZVGI1vOGSj0vIRqZbcftVxLBoRiI/edit)
 
 
-<a href='https://learn.co/lessons/hs-advanced-software-engineering-day-1-masterplan' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-advanced-software-engineering-day-1-masterplan' title='Day 1 - In Progress'>Day 1 - In Progress</a> on Learn.co and start learning to code for free.</p>
